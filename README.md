@@ -1,5 +1,4 @@
 # Dice_ClassProject
-Web dev course project using javascript and css in html site
 
 My completed project of Dicee
   a Web developer course from The App Brewery 
