@@ -1,6 +1,6 @@
 # Dice_ClassProject
 
-My completed project of Dicee
+My completed project of Dicee <br>
   a Web developer course from The App Brewery 
 
 Utilizations applied:
