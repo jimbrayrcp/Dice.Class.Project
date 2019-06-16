@@ -1,4 +1,4 @@
-# Dice_ClassProject
+# Dice_CourseProject
 
 <p>My completed course project of <b>Dicee</b> <br>
 <pre><i>a Web developer course from <b>The App Brewery</b></i></pre></p>
@@ -10,7 +10,7 @@
   <li> Javascript</li>
 </ul>
 
-<a href="https://jimbrayrcp.github.io/Dice_ClassProject/"><h2>Click Here to View Project</h2></a>
+<a href="https://jimbrayrcp.github.io/Dice_CourseProject/"><h2>Click Here to View Project</h2></a>
 
 <hr>
 
